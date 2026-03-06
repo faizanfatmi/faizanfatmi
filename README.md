@@ -15,6 +15,8 @@
 
 ### Backend & Frameworks
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+[![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=Django&logoColor=white)](https://www.caktusgroup.com/blog/2016/12/14/django-boring-or-why-tech-startups-should-use-django/)
+
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
