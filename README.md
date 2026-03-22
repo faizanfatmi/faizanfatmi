@@ -104,6 +104,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bc8cff,100:58a6ff&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bc8cff,100:58a6ff&height=150&section=footer&text=Every+expert+was+once+a+beginner.+Keep+coding!%F0%9F%9A%80&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
