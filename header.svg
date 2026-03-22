@@ -1,0 +1,51 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#bc8cff"/>
+    </linearGradient>
+    <style>
+      .sub1 { animation: f1 5s ease-in-out infinite; opacity:0; }
+      .sub2 { animation: f2 5s ease-in-out infinite; opacity:0; }
+      @keyframes f1 {
+        0%  {opacity:0} 10% {opacity:1} 40% {opacity:1} 50% {opacity:0} 100%{opacity:0}
+      }
+      @keyframes f2 {
+        0%  {opacity:0} 50% {opacity:0} 60% {opacity:1} 90% {opacity:1} 100%{opacity:0}
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- Wave overlays -->
+  <path d="M0,0 Q225,45 450,22 Q675,0 900,35 L900,0 Z" fill="rgba(0,0,0,0.12)"/>
+  <path d="M0,200 Q200,158 450,172 Q700,186 900,158 L900,200 Z" fill="rgba(0,0,0,0.18)"/>
+  <path d="M0,200 Q250,182 450,188 Q680,194 900,175 L900,200 Z" fill="rgba(255,255,255,0.07)"/>
+
+  <!-- Name -->
+  <text x="450" y="90"
+    font-family="'Segoe UI',Arial,sans-serif"
+    font-size="54" font-weight="800"
+    fill="white" text-anchor="middle"
+    filter="drop-shadow(0 2px 10px rgba(0,0,0,0.25))">
+    Faizan-Fatmi
+  </text>
+
+  <!-- Line 1: Full Stack Web Developer -->
+  <text x="450" y="138" class="sub1"
+    font-family="'Courier New',monospace"
+    font-size="19" font-weight="600"
+    fill="rgba(255,255,255,0.93)" text-anchor="middle" letter-spacing="0.5">
+    💻 Full Stack Web Developer
+  </text>
+
+  <!-- Line 2: Learning Data Science -->
+  <text x="450" y="138" class="sub2"
+    font-family="'Courier New',monospace"
+    font-size="19" font-weight="600"
+    fill="rgba(255,255,255,0.93)" text-anchor="middle" letter-spacing="0.5">
+    📊 Learning Data Science
+  </text>
+</svg>
