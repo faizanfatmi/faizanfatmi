@@ -90,8 +90,8 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=faizanfatmi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanfatmi&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanfatmi&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </div>
 
 <div align="center">
