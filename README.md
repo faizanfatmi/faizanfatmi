@@ -61,6 +61,19 @@
 
 ---
 
+## 📊 Data Science & Libraries
+
+<div align="center">
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
 ## ☁️ DevOps & Cloud
 
 <div align="center">
@@ -89,14 +102,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizanfatmi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanfatmi&theme=tokyonight&hide_border=true" width="60%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanfatmi&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanfatmi&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://raw.githubusercontent.com/faizanfatmi/faizanfatmi/output/github-snake.svg" alt="snake animation" />
 
 </div>
 
