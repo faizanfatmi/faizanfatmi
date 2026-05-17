@@ -108,13 +108,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/faizanfatmi/faizanfatmi/output/github-snake.svg" alt="snake animation" />
-
-</div>
 
 ---
 
