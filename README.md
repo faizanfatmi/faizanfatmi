@@ -2,7 +2,7 @@
 
 <img src="./header.svg" width="100%"/>
 
-<br/>
+<br/> 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=👋+Hi+there!+I'm+Faizan-Fatmi;🚀+Flask+%26+Django+Developer;🌍+Open+Source+Enthusiast;💡+Always+Learning+New+Things" alt="Typing SVG" />
 
