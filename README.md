@@ -102,7 +102,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanfatmi&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=faizanfatmi&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bc8cff,100:58a6ff&height=150&section=footer&text=Every+expert+was+once+a+beginner.+Keep+coding!%F0%9F%9A%80&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
 
